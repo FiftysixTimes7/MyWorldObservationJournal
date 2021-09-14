@@ -3,7 +3,7 @@
 
 AUTHOR = 'FiftysixTimes7'
 SITENAME = '世界观察日记'
-# SITEURL = 'https://fiftysixtimes7.github.io/myworldobservationjournal'
+# SITEURL = 'https://fiftysixtimes7.github.io/MyWorldObservationJournal'
 
 PATH = 'content'
 
@@ -23,8 +23,8 @@ AUTHOR_FEED_RSS = None
 #          ('Python.org', 'https://www.python.org/'),
 #          ('Jinja2', 'https://palletsprojects.com/p/jinja/'),)
 
-LINKS = (('source', 'https://github.com/FiftysixTimes7/myworldobservationjournal'),
-         ('issues', 'https://github.com/FiftysixTimes7/myworldobservationjournal/issues'),)
+LINKS = (('source', 'https://github.com/FiftysixTimes7/MyWorldObservationJournal'),
+         ('issues', 'https://github.com/FiftysixTimes7/MyWorldObservationJournal/issues'),)
 
 # Social widget
 # SOCIAL = (('You can add links in your config file', '#'),
